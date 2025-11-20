@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amit Kumar!
+# 👋 Hi, I'm Amitkumar!
 
 **Student | DevOps Enthusiast | Always Learning**
 

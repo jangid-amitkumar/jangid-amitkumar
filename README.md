@@ -54,7 +54,7 @@ I'm a passionate student currently diving deep into the world of **DevOps**. I l
 <!-- Add your links below -->
 - **Email:** jangidamitkumar49@gmail.com
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jangid-amitkumar)
-- **Website:** [Portfolio](https://amitkumar0128.github.io/portfolio/)
+- **Website:** [Portfolio](https://jangid-amitkumar.github.io/portfolio/)
 
 ---
 

@@ -22,12 +22,12 @@ I'm a passionate student currently diving deep into the world of **DevOps**. I l
 
 ## 📦 Projects I'm Proud Of
 
-- [**django-todo-cicd**](https://github.com/amitkumar0128/django-todo-cicd) — A CI/CD pipeline for Dockerized Django To-Do application using Jenkins, Terraform, Ansible and Docker
-- [**static-app-s3-cicd**](https://github.com/amitkumar0128/static-app-s3-cicd) — CI/CD pipeline for static apps to AWS S3 using GitHub Actions
-- [**flask_docker_cicd**](https://github.com/amitkumar0128/flask_docker_cicd) — Flask app with Docker and CI/CD integration using GitHub Actions
-- [**bugtracker**](https://github.com/amitkumar0128/bugtracker) — Simple bug tracking web app built using Django and Django REST Framework
-- [**portfolio**](https://github.com/amitkumar0128/portfolio) — My personal developer portfolio built using HTML, CSS and JS
-- [**docker-deploy-threeways**](https://github.com/amitkumar0128/docker-deploy-threeways) — A Django Todo App deployed independently using Terraform, Ansible, and Jenkins
+- [**django-todo-cicd**](https://github.com/jangid-amitkumar/django-todo-cicd) — A CI/CD pipeline for Dockerized Django To-Do application using Jenkins, Terraform, Ansible and Docker
+- [**static-app-s3-cicd**](https://github.com/jangid-amitkumar/static-app-s3-cicd) — CI/CD pipeline for static apps to AWS S3 using GitHub Actions
+- [**flask_docker_cicd**](https://github.com/jangid-amitkumar/flask_docker_cicd) — Flask app with Docker and CI/CD integration using GitHub Actions
+- [**bugtracker**](https://github.com/jangid-amitkumar/bugtracker) — Simple bug tracking web app built using Django and Django REST Framework
+- [**portfolio**](https://github.com/jangid-amitkumar/portfolio) — My personal developer portfolio built using HTML, CSS and JS
+- [**docker-deploy-threeways**](https://github.com/jangid-amitkumar/docker-deploy-threeways) — A Django Todo App deployed independently using Terraform, Ansible, and Jenkins
 
 *Check out my pinned repositories below for more!*
 
